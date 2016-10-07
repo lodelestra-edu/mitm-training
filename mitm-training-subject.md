@@ -51,9 +51,7 @@ Login to every VM to set the IP address.
 Lubuntu: 192.168.0.10 | Metasploitable: 192.168.0.11 | Kali: 192.168.0.20   
 **Check all the VMs can ping each other. From every VM. Yes realy, do that, it's important!**   
 
-
-
-
+\newpage
 
 ##B/Start the attack
 
