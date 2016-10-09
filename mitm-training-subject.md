@@ -77,5 +77,5 @@ Lubuntu: 192.168.0.10 | Metasploitable: 192.168.0.11 | Kali: 192.168.0.20
 @. With your kali and lubuntu.
 
 - Try to login the phpmyadmin page. Find the user and password in your wireshark.
-- Try the drifnet tool in your kali `drifnet -i eth0`. In your lubuntu go to the dvwa/login.php page (refresh with ctrl+f5 if needed).
+- Try the driftnet tool in your kali `driftnet -i eth0`. In your lubuntu go to the dvwa/login.php page (refresh with ctrl+f5 if needed).
 
